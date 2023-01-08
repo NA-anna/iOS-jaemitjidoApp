@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string></string>
+		<key>title</key>
+		<string>주문진 5일장</string>
+		<key>category</key>
+		<string>5일장</string>
+		<key>startDate</key>
+		<string>2022-10-01</string>
+		<key>endDate</key>
+		<string>2022-10-01</string>
+		<key>place</key>
+		<string>주문진종합시장</string>
+		<key>x</key>
+		<string>37.8912692811041</string>
+		<key>y</key>
+		<string>128.826889707107</string>
+		<key>content</key>
+		<string>특산물: 오징어,가자미,게,배 </string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string></string>
+		<key>title</key>
+		<string>아나바다 나눔장터</string>
+		<key>category</key>
+		<string>플리마켓</string>
+		<key>startDate</key>
+		<string>2022-10-01</string>
+		<key>endDate</key>
+		<string>2022-10-01</string>
+		<key>place</key>
+		<string>뚝섬한강공원</string>
+		<key>x</key>
+		<string>37.5292974433415</string>
+		<key>y</key>
+		<string>127.06892112991</string>
+		<key>content</key>
+		<string>주민들과 함께하는 아나바다 나눔장터 함께해요</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string></string>
+		<key>title</key>
+		<string>여성취업박람회</string>
+		<key>category</key>
+		<string>박람회</string>
+		<key>startDate</key>
+		<string>2022-10-30</string>
+		<key>endDate</key>
+		<string>2022-10-31</string>
+		<key>place</key>
+		<string>남부여성발전센터(독산동)</string>
+		<key>x</key>
+		<string>37.4630783</string>
+		<key>y</key>
+		<string>126.9059344</string>
+		<key>content</key>
+		<string>여성고용창출을 위한 취업박람회</string>
+		<key>user_name</key>
+		<string>나유진</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string></string>
+		<key>title</key>
+		<string>2022 한강 달빛 야시장 (반포)</string>
+		<key>category</key>
+		<string>플리마켓</string>
+		<key>startDate</key>
+		<string>2022-10-22</string>
+		<key>endDate</key>
+		<string>2022-10-30</string>
+		<key>place</key>
+		<string>반포한강공원</string>
+		<key>x</key>
+		<string>37.5103503</string>
+		<key>y</key>
+		<string>126.9059344</string>
+		<key>content</key>
+		<string>(구)밤도깨비야시장 http://www.bamdokkaebi.org</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string></string>
+		<key>title</key>
+		<string>2022 한강 달빛 야시장 (여의도)</string>
+		<key>category</key>
+		<string>플리마켓</string>
+		<key>startDate</key>
+		<string>2022-10-22</string>
+		<key>endDate</key>
+		<string>2022-10-30</string>
+		<key>place</key>
+		<string>여의도 한강공원</string>
+		<key>x</key>
+		<string>37.52638860108943</string>
+		<key>y</key>
+		<string>126.93512931714196</string>
+		<key>content</key>
+		<string>(구)밤도깨비야시장 http://www.bamdokkaebi.org</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string></string>
+		<key>title</key>
+		<string>장범준의  버스킹버스킹</string>
+		<key>category</key>
+		<string>버스킹</string>
+		<key>startDate</key>
+		<string>2022-10-01</string>
+		<key>endDate</key>
+		<string>2022-10-01</string>
+		<key>place</key>
+		<string>여수낭만포차거리</string>
+		<key>x</key>
+		<string>34.73648684742071</string>
+		<key>y</key>
+		<string>127.74915280163137</string>
+		<key>content</key>
+		<string>장범준의 여수사랑 깜짝 버스킹</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string></string>
+		<key>title</key>
+		<string>아이유 콘서트</string>
+		<key>category</key>
+		<string>콘서트</string>
+		<key>startDate</key>
+		<string>2022-12-24</string>
+		<key>endDate</key>
+		<string>2022-12-25</string>
+		<key>place</key>
+		<string>고척스카이돔</string>
+		<key>x</key>
+		<string>37.49924950286752</string>
+		<key>y</key>
+		<string>126.86810492508899</string>
+		<key>content</key>
+		<string>성탄절, 아이유의 단독 콘서트</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string></string>
+		<key>title</key>
+		<string>서울 세계 불꽃 축제</string>
+		<key>category</key>
+		<string>축제</string>
+		<key>startDate</key>
+		<string>2022-10-08</string>
+		<key>endDate</key>
+		<string>2022-10-08</string>
+		<key>place</key>
+		<string>여의도 한강공원</string>
+		<key>x</key>
+		<string>37.52638860108943</string>
+		<key>y</key>
+		<string>126.93512931714196</string>
+		<key>content</key>
+		<string>아시아 최고 수준의 불꽃쇼, 대한민국 최고의 축제입니다.</string>
+	</dict>
+</array>
+</plist>

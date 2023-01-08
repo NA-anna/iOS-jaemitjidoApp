@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string></string>
+		<key>title</key>
+		<string>여성취업박람회</string>
+		<key>category</key>
+		<string>박람회</string>
+		<key>startDate</key>
+		<string>2022-10-30</string>
+		<key>endDate</key>
+		<string>2022-10-31</string>
+		<key>place</key>
+		<string>남부여성발전센터(독산동)</string>
+		<key>x</key>
+		<string>37.4630783</string>
+		<key>y</key>
+		<string>126.9059344</string>
+		<key>content</key>
+		<string>설명설명</string>
+		<key>user_name</key>
+		<string>나유진</string>
+	</dict>
+</array>
+</plist>
